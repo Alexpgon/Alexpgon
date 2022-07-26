@@ -1,8 +1,8 @@
 
- <div style=background-color: black>
+ <div>
    <a href="https://github.com/Alexpgon">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexpgon&show_icons=true&theme=gothamt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpgon&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexpgon&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpgon&layout=compact&langs_count=6&theme=gotham"/>
 
 </div>
 <div style="display: inline_block"><br>
